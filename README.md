@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Pytorch,spacy.
 - 👯 I’m looking to collaborate on Kaggle
 - 💬 Ask me about ML.
-- 📫 How to reach me: rsohlot@gmail.com
+- 📫 How to reach me: rsohlot@gmail.com / rsohlot.github.io
