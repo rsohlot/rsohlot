@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as Associate Data Scientist.
+- 🔭 I’m currently working as Product Engineer.
 - 🌱 I’m currently learning Pytorch,spacy.
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
